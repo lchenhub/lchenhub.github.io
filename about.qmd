@@ -1,6 +1,6 @@
 ---
 title: "Liane Chen"
-image: "liane.jpg"
+image: liane.jpg
 toc: false
 about: 
   template: jolla
