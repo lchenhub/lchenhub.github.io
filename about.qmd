@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: "Liane Chen"
+image: "liane.jpg"
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: www.linkedin.com/in/lianechen 
+      icon: linkedin
+    - text: Github
+      icon: github
+      href: https://github.com/lchenhub 
+    - text: Email
+      href: liane@ucsb.edu 
 ---
 
-About this site
+#  About me:
+Hello. This is my bio.
+## Education:
 
-```{r}
-1 + 1
-```
+BA Environmental Systems, UC San Diego (2012)
+
+
+## Experience:
