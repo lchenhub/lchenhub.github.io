@@ -1,1 +1,11 @@
 /* css styles */
+h1 {
+  text.align: center;
+  background-color: #49bf96;
+  border-radius: 25px;
+}
+
+a {
+  color: purple;
+  font-style: italic;
+}
