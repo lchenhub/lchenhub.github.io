@@ -1,0 +1,28 @@
+---
+title: "Liane's first blog post"
+description: "I'm so pretty"
+author: 
+  - name: Liane Chen
+    url: https://lchenhub.github.io/
+    affiliation: MEDS
+    affiliation-url: https://bren.ucsb.edu/masters-programs/master-environmental-data-science
+date: 10-23-2023
+categories: [Quarto, MEDS, Workshop]
+bibliography: references.bib
+citation:
+    url: https://lchenhub.github.io/blog/2023-10-23-my-first-post/
+image: /Users/lianechen/Documents/MEDS_2023/github/lchenhub.github.io/blog/2023-10-23-my-first-post/images/preview-image.jpeg
+draft: true
+---
+
+## This is my first section
+
+Here is some really[^1] exciting stuff!
+
+[^1]: This is my first footnote
+
+I love MEDS so much
+
+## This is my second section
+
+Yay
