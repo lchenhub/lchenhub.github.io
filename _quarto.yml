@@ -12,9 +12,10 @@ website:
         - href: index.qmd
           text: Home
         - about.qmd
+        - Blog.qmd
         - href: resources.qmd
-        - text: Resources
-        - href: cv/myCv.pdf
+          text: Resources
+        - href: LianeChenResume.pdf
         - text: CV
   page-footer: 
     background: light
