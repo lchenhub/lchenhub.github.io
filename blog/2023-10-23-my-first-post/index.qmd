@@ -1,6 +1,6 @@
 ---
 title: "Liane's first blog post"
-description: "I'm so pretty"
+description: "Here is where the final blog posts will live"
 author: 
   - name: Liane Chen
     url: https://lchenhub.github.io/

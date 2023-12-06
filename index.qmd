@@ -1,6 +1,6 @@
 ---
 title: "LIANE CHEN"
-subtitle: "Climate Adaptation | Data Science"
+subtitle: "Environmental Planning | Data Science"
 image: liane.JPG
 about: 
   template: trestles
@@ -15,16 +15,18 @@ about:
       href: mailto:liane@bren.ucsb.edu
 ---
 
-**\## Professional Bio**
-
-\<h4\>Professional Bio\</h4\>
+**Professional Bio**
 
 I expect to graduate in June 2023 with a \[Masters of Environmental Data Science\] (https://bren.ucsb.edu/masters-programs/master-environmental-data-science). I am looking to use my passion for climate adaptation, environmental planning, and data science skills to prepare our communities and ecosystems to be more resilient to extreme climate impacts. I am especially interested in visualizing complex data and providing solutions to pressing environmental concerns in accessible and inclusive ways.
 
-**\## Education**
+**Education**
 
-\<h4\>Education\</h4\>
+Bren School of Environmental Science & Management, University of California, Santa Barbara (UCSB)
 
-\<h7\>\<b\>\<u\>Bren School of Environmental Science & Management, UCSB\</b\>\</u\>\</h7\>\<br\> \![\](images/cap.png){width="4%"} Master of Environmental Data Science (MEDS) \\\| 2024
+Master of Environmental Data Science (MEDS) \| 2024
 
-\<h7\>\<b\>\<u\>University of California, Santa Barbara (UCSB)\</b\>\</u\>\</h7\>\<br\> \![\](images/cap.png){width="4%"} Bachelor of Arts in Environmental Studies \\\| 2012 \<br\> Emphasis: Policy, Planning
+University of California, San Diego (UCSD)
+
+Bachelor of Arts in Environmental Studies \| 2012
+
+Emphasis: Policy, Planning
