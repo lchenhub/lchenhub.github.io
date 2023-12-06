@@ -1,11 +1,16 @@
 /* css styles */
-h1 {
-  text.align: center;
-  background-color: #49bf96;
-  border-radius: 25px;
+.first-color { 
+	background: #e7e6e1; 
+}
+	
+.second-color { 
+	background: #f7f6e7; 
 }
 
-a {
-  color: purple;
-  font-style: italic;
+.third-color { 
+	background: #c1c0b9; 
+}
+
+.fourth-color { 
+	background: #537791; 
 }

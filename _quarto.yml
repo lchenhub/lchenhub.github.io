@@ -10,17 +10,15 @@ website:
     #logo-alt: <insert alt text here since its an image>
     left:
         - href: index.qmd
-          text: Home
-        - about.qmd
-        - Blog.qmd
-        - href: resources.qmd
-          text: Resources
+          text: Liane Chen
+        - href: Blog.qmd
+          text: Blog & Portfolio
         - href: LianeChenResume.pdf
-        - text: CV
+        - text: Resume
   page-footer: 
     background: light
     left: 
-      - "Copyright 2021, Liane Chen"
+      - "Copyright 2023, Liane Chen"
     right: 
       - icon: github
       # - href: http://github.com/lchenhub (check link and update)

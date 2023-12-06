@@ -16,8 +16,36 @@
   {
     "objectID": "Blog.html",
     "href": "Blog.html",
-    "title": "Blog",
+    "title": "Blog & Portfolio",
     "section": "",
-    "text": "No matching items"
+    "text": "Liane’s first blog post\n\n\n\nQuarto\n\n\nMEDS\n\n\nWorkshop\n\n\n\nHere is where the final blog posts will live\n\n\n\nLiane Chen\n\n\nOct 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html",
+    "href": "blog/2023-10-23-my-first-post/index.html",
+    "title": "Liane’s first blog post",
+    "section": "",
+    "text": "Here is some really1 exciting stuff!\nI love MEDS so much"
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
+    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
+    "title": "Liane’s first blog post",
+    "section": "",
+    "text": "Here is some really1 exciting stuff!\nI love MEDS so much"
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
+    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
+    "title": "Liane’s first blog post",
+    "section": "This is my second section",
+    "text": "This is my second section\nYay"
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#footnotes",
+    "href": "blog/2023-10-23-my-first-post/index.html#footnotes",
+    "title": "Liane’s first blog post",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is my first footnote↩︎"
   }
 ]

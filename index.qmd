@@ -3,7 +3,7 @@ title: "LIANE CHEN"
 subtitle: "Environmental Planning | Data Science"
 image: liane.JPG
 about: 
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 18em
   links:
