@@ -5,4 +5,4 @@ title-block-banner: true
 #if this is set to true, blog posts actually needs to be render, and then you need to click "Build" on R side panel, and Render website
 #requires me to re-render individual posts before "Render Website", even if you haven't touched it
 #set to auto means quarto auto does it for you; when set to true, you have to do it yourself
-freeze: true
+freeze: auto

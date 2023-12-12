@@ -11,7 +11,7 @@ categories: [Quarto, MEDS, Workshop]
 bibliography: references.bib
 citation:
     url: https://lchenhub.github.io/blog/2023-10-23-my-first-post/
-image: /Users/lianechen/Documents/MEDS_2023/github/lchenhub.github.io/blog/2023-10-23-my-first-post/images/preview-frog.jpeg
+image: images/preview-frog.jpeg
 draft: false
 ---
 

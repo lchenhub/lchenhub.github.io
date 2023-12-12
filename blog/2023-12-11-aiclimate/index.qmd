@@ -1,0 +1,63 @@
+---
+title: "Ethics and Bias in Environmental Data Science"
+description: "AI and Climate Change Solutions"
+author: 
+  - name: Liane Chen
+    url: https://lchenhub.github.io/
+    affiliation: MEDS (UCSB) 
+    affiliation-url: https://bren.ucsb.edu/masters-programs/master-environmental-data-science
+date: 12-11-2023
+categories: [MEDS, Ethics, AI, Climate Adaptation, Energy]
+citation:
+    url: https://lchenhub.github.io/blog/2023-12-11-AI and Climate Change Solutions/
+image: images/AI-main.jpg
+draft: false
+---
+
+*\"Humanizing science, policy, and practice can create spaces that value and integrate diverse knowledge systems, foster meaningful engagement with affected communities, and promote inclusive decision-making processes. This approach recognizes the limitations of AI and emphasizes the critical role of human judgment, empathy, and ethical considerations in ensuring responsible and equitable outcomes in addressing climate change and other societal challenges\" (Chamuah, Ale, Mathur, 2012).*
+
+## Introduction
+
+The goal of this blog post is to explore the use of artificial intelligence (AI) in climate change solutions and its limitations through the lens of ethics and bias. I introduce the topic with an example of how AI is being used for problem solving climate change at the individual level (i.e., reduction in energy consumption at data centers), where related impacts are direct and mostly limited to the site itself. Next, I explore the use of AI at larger community and regional scales for climate resiliency and adaptation policies and urge scientists and practitioners to consider potential indirect risks when building scalable solutions. To conclude, I suggest emphasizing a human-centered approach when using AI to develop climate change solutions.
+
+## AI and Problem Solving at Individual Scale
+
+AI can be alluring in its promise to revolutionize how we tackle pressing and complex environmental problems. By processing and learning from large amounts of data, AI could generate intelligent predictions to mitigate future risks and uncertainties related to climate change. Similar solutions would otherwise take human minds more time, effort, and resources to produce. Thus, the application of AI can increase our abilities to solve environmental problems faster. Let\'s look at how AI is being used to reduce energy consumption at Google\'s data centers.
+
+At an individual scale where AI is applied to either one or a limited number of sites, AI could provide efficient solutions to physical environmental problems. According to the International Energy Agency, data centers worldwide consume upwards of 250 terawatt-hours (TWh) of electricity, representing around one percent of global electricity demand and 0.3 percent of global carbon emissions. That number is expected to reach eight percent by 2030 (Tahah 2023). Google\'s DeepMind team has been working on building general AI systems for various applications and has recently been used to reduce energy consumption of data centers. In 2015, DeepMind received media attention for its success with AlphaGo, the first computer program to defeat a Go world champion. This was a landmark achievement as Go was more difficult for computers to win compared to other games like chess, due to the larger number of possible moves. Since then, DeepMind\'s machine learning has been used to reduce energy consumption at Google\'s own data centers by 40 percent. This was accomplished by taking historical data such as temperatures, power, pump speeds, setpoints, etc. and using it to train an ensemble of deep neural networks to predict future temperatures and optimize efficiency. Possible future applications of this technology include improving power plant conversion efficiency (getting more energy from the same unit of input), reducing semiconductor manufacturing energy and water usage, or helping manufacturing facilities increase throughput (DeepMind 2016).
+
+I argue that DeepMind\'s contribution towards a reduction in energy consumption at Google\'s data center is a positive use of AI. While applying AI to data centers can have potential indirect impacts on communities (GHG, land use, noise, visual impacts), I believe that these indirect impacts are limited when compared to other cases where AI has been applied to create large-scaled social solutions.
+
+## AI and Climate Adaptation
+
+Efforts have sped up in terms of exploring the use of AI in climate change solutions. Recently, the United Nations Framework Convention on Climate Change (UNFCCC) Technology Mechanism launched a five-year work plan (2023-27) to explore the role of \"AI as a powerful technological tool...in advancing and scaling up transformative climate solutions, particularly for the most vulnerable communities\" (UNFCCC 2023). Within climate change adaptation, AI is used in cities and mobility sustainability; housing cooling system; water sustainability; energy sustainability. Figure 1 shows that 38% of studies pertinent to water-related issues under climate change, including flood prediction and irrigation management, have attracted the most research attention on examining the application of AI for adaptation (Filho et al., 2022). Table 1 shows a comparison of AI-powered vulnerability assessment tools for climate change adaptation (Jain, 2023).
+
+Fig. 1. Distribution of main research areas on AI application by the identified research publications
+
+![](/blog/2023-12-11-aiclimate/images/Picture1.jpg){width="50%"}
+
+![](images/climate table.jpg)
+
+However, when scaled up to the community and regional levels, AI solutions to climate change can have broader implications on historically marginalized and vulnerable populations. When developing climate adaptation solutions using AI, we should consider whether these solutions are appropriate for the community being evaluated and ask whether there would be increased risk of secondary harm. For example, following lethal landslides in Rio de Janeiro in 2010, urban risk mapping and management projects (Mendes Barbosa and Walker 2020) disproportionately led to the clearance of favelas (slums) in Brazil. Displacement of these favela populations resulted in instant backlash as the evictions were seen as pretext for forcefully removing poor residents from valuable property. This case study serves as an important reminder to examine who holds power and who is creating the narrative when implementing scientifically informed policies and projects during critical decision-making processes.
+
+## Human-centered Approach
+
+Climate change is a multifaceted issue with social, economic and environmental implications. I urge that scientists and practitioners consider a human-centered approach where diverse perspectives and people\'s lived experiences are included early and often in the decision-making process. While the use of AI is promising in its ability to generate solutions to environmental problems, we must be cautious that existing injustices are not further intensified. By ensuring the well-being of all individuals, not just a select group of decision-makers, we can ensure that we implement technology in ways that are meaningful and empathically.
+
+## References
+
+Chamuah, Angelina, Ale, Hema Vaishnavi, Mathur, Vikrom. AI, Climate Adaptation, and Epistemic Injustice. *CASTAC blog,* July 20, 2023. https://blog.castac.org/2023/07/ai-climate-adaptation-and-epistemic-injustice/
+
+Evans, Richard, Gao, Jim. DeepMind AI Reduces Google Data Centre Cooling Bill by 40%. *Google DeepMind,* July 20, 2016. https://deepmind.google/discover/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40/
+
+Taha, Nabil. The path to data center decarbonization starts now. *Data Center Dynamics*, July 28, 2023.  https://www.datacenterdynamics.com/en/opinions/the-path-to-data-center-decarbonization-starts-now/#:\~:text=According%20to%20the%20International%20Energy,reach%20eight%20percent%20by%202030.
+
+Phillips, Tom. Rio slum dwellers face forced eviction after landslides. *The Guardian*, April 11, 2010. https://www.theguardian.com/world/2010/apr/11/rio-brazil-slum-forced-evictions
+
+Filho, Walter Leal, Wall, Tony, Afonso Rui Mucova, Serafino, J. Nagy, Gustavo, Balogun, Abdul-Lateef, M. Luetz, Johannes, W. Ng, Artie, Kovaleva, Marina, Mohammad Safiul Azam, Fardous, Alves, Fátima, Guevara, Zeus, R Matandirotya, Newton, Skouloudis, Antonis, Tzachor, Asaf, Malakar, Krishna, Gandhi, Odhiambo. Deploying artificial intelligence for climate change adaptation. *Technological Forecasting and Social Change, Volume 180*, 2022. https://doi.org/10.1016/j.techfore.2022.121662.
+
+Jain, H., Dhupper, R., Shrivastava, A. *et al.* AI-enabled strategies for climate change adaptation: protecting communities, infrastructure, and businesses from the impacts of climate change. *Comput.Urban Sci.* **3**, 25 (2023). https://doi.org/10.1007/s43762-023-00100-2
+
+Mendes Barbosa, Luciana, Walker, Gordon. Copernicus Publications, November 12, 2020. Epistemic injustice, risk mapping and climatic events: analysing epistemic resistance in the context of favela removal in Rio de Janeiro. https://doi.org/10.5194/gh-75-381-2020
+
+Yay

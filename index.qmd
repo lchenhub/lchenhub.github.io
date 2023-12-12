@@ -17,7 +17,7 @@ about:
 
 **Professional Bio**
 
-I expect to graduate in June 2023 with a \[Masters of Environmental Data Science\] (https://bren.ucsb.edu/masters-programs/master-environmental-data-science). I am looking to use my passion for climate adaptation, environmental planning, and data science skills to prepare our communities and ecosystems to be more resilient to extreme climate impacts. I am especially interested in visualizing complex data and providing solutions to pressing environmental concerns in accessible and inclusive ways.
+I expect to graduate in June 2023 with a [Masters of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science). I am looking to use my passion for climate adaptation, environmental planning, and data science skills to prepare our communities and ecosystems to be more resilient to extreme climate impacts. I am especially interested in visualizing complex data and providing solutions to pressing environmental concerns in accessible and inclusive ways.
 
 **Education**
 
