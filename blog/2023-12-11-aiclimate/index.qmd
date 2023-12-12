@@ -11,7 +11,6 @@ categories: [MEDS, Ethics, AI, Climate Adaptation, Energy]
 citation:
     url: https://lchenhub.github.io/blog/2023-12-11-AI and Climate Change Solutions/
 image: images/AI-main.jpg
-draft: false
 ---
 
 *\"Humanizing science, policy, and practice can create spaces that value and integrate diverse knowledge systems, foster meaningful engagement with affected communities, and promote inclusive decision-making processes. This approach recognizes the limitations of AI and emphasizes the critical role of human judgment, empathy, and ethical considerations in ensuring responsible and equitable outcomes in addressing climate change and other societal challenges\" (Chamuah, Ale, Mathur, 2012).*
